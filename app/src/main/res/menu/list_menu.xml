@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menu_location"
+        android:icon="@drawable/icon_my_location"
+        app:showAsAction="ifRoom"
+        android:title="@string/location" />
+    <item
+        android:id="@+id/menu_history"
+        android:icon="@drawable/icon_history"
+        app:showAsAction="ifRoom"
+        android:title="@string/history" />
+</menu>

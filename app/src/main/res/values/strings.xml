@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">akudimana</string>
+    <string name="title">Kamu berada di :</string>
+    <string name="longitude">Longitude : %s</string>
+    <string name="latitude">Latitude : %s</string>
+    <string name="city">Kota : %s</string>
+    <string name="country">Negara : %s</string>
+    <string name="history">History</string>
+    <string name="location">Location</string>
+</resources>
